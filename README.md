@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://shubhamjagtapdevops.hashnode.dev/](https://shubhamjagtapdevops.hashnode.dev/)
 
-- 💬 Ask me about **DevOps**
-
 - 📫 How to reach me **smjdevopservices@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubham-jagtap-576b49252/](https://www.linkedin.com/in/shubham-jagtap-576b49252/)
