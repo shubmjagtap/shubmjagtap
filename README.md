@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Jagtap</h1>
 <h3 align="center">I'm passionate devops engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubmjagtap](https://github.com/shubmjagtap)
+- 👨‍💻 my projects are available at [https://github.com/shubmjagtap](https://github.com/shubmjagtap)
 
 - 📝 I regularly write articles on [https://shubhamjagtapdevops.hashnode.dev/](https://shubhamjagtapdevops.hashnode.dev/)
 
