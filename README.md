@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Jagtap</h1>
-<h3 align="center">I'm passionate devops engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Djikstra</h1>
 
 - 📝 I regularly write articles on [https://shubhamjagtapdevops.hashnode.dev/](https://shubhamjagtapdevops.hashnode.dev/)
 
