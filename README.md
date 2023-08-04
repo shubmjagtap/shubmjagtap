@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Jagtap</h1>
 <h3 align="center">I'm passionate devops engineer from India</h3>
 
-- 👨‍💻 my projects are available at [https://github.com/shubmjagtap](https://github.com/shubmjagtap)
-
 - 📝 I regularly write articles on [https://shubhamjagtapdevops.hashnode.dev/](https://shubhamjagtapdevops.hashnode.dev/)
 
 - 📫 How to reach me **smjdevopservices@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubham-jagtap-576b49252/](https://www.linkedin.com/in/shubham-jagtap-576b49252/)
+- 📄 Know about my experiences , then check my github grid.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
